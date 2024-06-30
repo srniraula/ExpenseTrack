@@ -1,0 +1,1 @@
+this is an expanse tracker not fully functional. it is static. But this was very crucial in my journey of learning mobile app development. 
